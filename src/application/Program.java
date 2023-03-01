@@ -24,7 +24,7 @@ public class Program {
 
 		while (encerra == false) {
 			
-			for (int l=0; l<30; l++) {
+			for (int l=0; l<50; l++) {
 				System.out.println();
 			}
 			
