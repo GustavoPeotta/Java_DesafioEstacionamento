@@ -24,6 +24,10 @@ public class Program {
 
 		while (encerra == false) {
 			
+			for (int l=0; l<30; l++) {
+				System.out.println();
+			}
+			
 			System.out.println();
 			System.out.println("ESTACIONAMENTO");
 			System.out.println("Quantidade de carros: ");
